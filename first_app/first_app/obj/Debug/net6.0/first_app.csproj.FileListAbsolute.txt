@@ -1,0 +1,14 @@
+C:\Users\karna\source\repos\first_app\first_app\bin\Debug\net6.0\first_app.exe
+C:\Users\karna\source\repos\first_app\first_app\bin\Debug\net6.0\first_app.deps.json
+C:\Users\karna\source\repos\first_app\first_app\bin\Debug\net6.0\first_app.runtimeconfig.json
+C:\Users\karna\source\repos\first_app\first_app\bin\Debug\net6.0\first_app.dll
+C:\Users\karna\source\repos\first_app\first_app\bin\Debug\net6.0\first_app.pdb
+C:\Users\karna\source\repos\first_app\first_app\obj\Debug\net6.0\first_app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karna\source\repos\first_app\first_app\obj\Debug\net6.0\first_app.AssemblyInfoInputs.cache
+C:\Users\karna\source\repos\first_app\first_app\obj\Debug\net6.0\first_app.AssemblyInfo.cs
+C:\Users\karna\source\repos\first_app\first_app\obj\Debug\net6.0\first_app.csproj.CoreCompileInputs.cache
+C:\Users\karna\source\repos\first_app\first_app\obj\Debug\net6.0\first_app.dll
+C:\Users\karna\source\repos\first_app\first_app\obj\Debug\net6.0\refint\first_app.dll
+C:\Users\karna\source\repos\first_app\first_app\obj\Debug\net6.0\first_app.pdb
+C:\Users\karna\source\repos\first_app\first_app\obj\Debug\net6.0\first_app.genruntimeconfig.cache
+C:\Users\karna\source\repos\first_app\first_app\obj\Debug\net6.0\ref\first_app.dll
