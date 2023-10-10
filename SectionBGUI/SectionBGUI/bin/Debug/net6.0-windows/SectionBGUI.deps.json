@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "SectionBGUI/1.0.0": {
+        "runtime": {
+          "SectionBGUI.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SectionBGUI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
